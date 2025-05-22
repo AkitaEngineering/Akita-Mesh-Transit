@@ -1,0 +1,48 @@
+{
+  "bus_id": "B101",
+  "enable_ble_advertising": true,
+  "geofences": [
+    {
+      "stop_id": 1,
+      "lat": 42.886400,
+      "lon": -79.249500,
+      "radius_m": 30.0
+    },
+    {
+      "stop_id": 2,
+      "lat": 42.882000,
+      "lon": -79.255000,
+      "radius_m": 35.0
+    },
+    {
+      "stop_id": 3,
+      "lat": 42.878500,
+      "lon": -79.240000,
+      "radius_m": 30.0
+    },
+    {
+      "stop_id": 4,
+      "lat": 42.875000,
+      "lon": -79.245000,
+      "radius_m": 30.0
+    },
+    {
+      "stop_id": 5,
+      "lat": 42.879000,
+      "lon": -79.258000,
+      "radius_m": 30.0
+    },
+    {
+      "stop_id": 6,
+      "lat": 42.885000,
+      "lon": -79.260000,
+      "radius_m": 30.0
+    },
+    {
+      "stop_id": 7,
+      "lat": 42.890000,
+      "lon": -79.250000,
+      "radius_m": 30.0
+    }
+  ]
+}
