@@ -1,10 +1,37 @@
-{
-  "station_id": 1,
-  "known_bus_ids": [
-    "B101",
-    "B102",
-    "CAMPUS-A",
-    "SHUTTLE-7",
-    "B-NORTH-01"
-  ]
-}
+[
+  {
+    "from": 1,
+    "to": 2,
+    "time_min": 3
+  },
+  {
+    "from": 2,
+    "to": 3,
+    "time_min": 5
+  },
+  {
+    "from": 3,
+    "to": 4,
+    "time_min": 2
+  },
+  {
+    "from": 4,
+    "to": 5,
+    "time_min": 4
+  },
+  {
+    "from": 5,
+    "to": 6,
+    "time_min": 3
+  },
+  {
+    "from": 6,
+    "to": 7,
+    "time_min": 5
+  },
+  {
+    "from": 7,
+    "to": 1,
+    "time_min": 6
+  }
+]
