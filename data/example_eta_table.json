@@ -1,0 +1,10 @@
+{
+  "station_id": 1,
+  "known_bus_ids": [
+    "B101",
+    "B102",
+    "CAMPUS-A",
+    "SHUTTLE-7",
+    "B-NORTH-01"
+  ]
+}
